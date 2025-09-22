@@ -36,7 +36,7 @@ function login(){
                 }).showToast();
                 localStorage.setItem('loggedEmail',userList[i].email)
                 setTimeout(() => {
-                    window.location.replace('../index.html')
+                    window.location.replace('../Home.html')
                 }, 2100);
             }
         }

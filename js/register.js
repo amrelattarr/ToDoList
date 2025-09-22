@@ -43,7 +43,7 @@ function register(e){
             
                 }).showToast();
                 setTimeout(() => {
-                    window.location.replace('../login.html')
+                    window.location.replace('../index.html')
                 }, 2100);
             }else{
                 viewError('Account Already Exist')
