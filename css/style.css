@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #456882;
+}
+
+.title{
+    background-color: #456882;
+    font-family: "Monoton", sans-serif;
+    font-size:4rem;
+}
+.title a{
+    font-family:'Times New Roman', Times, serif;
+
+}
+.input_Form{
+    background-color:#456882 ;
+}
+i{
+    cursor: pointer;
+}
+
+.lists{
+    background-color: rgba(0, 0, 0, 0.123);
+}
+.form-bg{
+    background-color: rgba(0, 0, 0, 0.123);
+}
+
+
+
+.alertContainer{
+    background-color: rgba(0, 0, 0, 0.7);
+}
+.circle{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+
+.red{
+    background-color: #ff6723;
+}
+.yellow{
+    background-color: #fcd53f;
+}
+.green{
+    background-color: #00d26a;
+}
